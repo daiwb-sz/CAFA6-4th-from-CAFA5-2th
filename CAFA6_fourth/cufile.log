@@ -1,0 +1,1351 @@
+ 10-01-2026 14:35:23:758 [pid=257365 tid=257365] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 14:35:23:759 [pid=257365 tid=257365] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 14:35:23:987 [pid=257365 tid=257365] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 14:35:23:987 [pid=257365 tid=257365] NOTICE  cufio-drv:1063 running in compatible mode
+ 10-01-2026 14:35:25:541 [pid=257365 tid=257365] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 10-01-2026 14:35:25:692 [pid=257365 tid=257495] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:25:692 [pid=257365 tid=257493] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:25:692 [pid=257365 tid=257494] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:25:692 [pid=257365 tid=257492] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:25:704 [pid=257365 tid=257495] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:25:705 [pid=257365 tid=257493] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:25:708 [pid=257365 tid=257494] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f37ec400000 curesult =  0
+ 10-01-2026 14:35:31:269 [pid=257525 tid=257525] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 14:35:31:269 [pid=257525 tid=257525] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 14:35:31:496 [pid=257525 tid=257525] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 14:35:31:496 [pid=257525 tid=257525] NOTICE  cufio-drv:1063 running in compatible mode
+ 10-01-2026 14:35:32:998 [pid=257525 tid=257525] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 10-01-2026 14:35:33:38 [pid=257525 tid=257627] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:38 [pid=257525 tid=257625] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:39 [pid=257525 tid=257626] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:39 [pid=257525 tid=257624] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:50 [pid=257525 tid=257625] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:55 [pid=257525 tid=257627] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:57 [pid=257525 tid=257626] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:60 [pid=257525 tid=257624] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:63 [pid=257525 tid=257625] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:67 [pid=257525 tid=257627] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:74 [pid=257525 tid=257626] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:77 [pid=257525 tid=257624] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:78 [pid=257525 tid=257625] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:33:82 [pid=257525 tid=257627] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fc3f0000000 curesult =  0
+ 10-01-2026 14:35:36:147 [pid=257648 tid=257648] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 14:35:36:147 [pid=257648 tid=257648] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 14:35:36:394 [pid=257648 tid=257648] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 14:35:36:394 [pid=257648 tid=257648] NOTICE  cufio-drv:1063 running in compatible mode
+ 10-01-2026 14:35:37:900 [pid=257648 tid=257648] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 10-01-2026 14:35:37:941 [pid=257648 tid=257743] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f105b000600 curesult =  0
+ 10-01-2026 15:06:58:736 [pid=270967 tid=270967] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:06:58:736 [pid=270967 tid=270967] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:06:58:736 [pid=270967 tid=270967] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:06:58:737 [pid=270967 tid=270967] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:07:02:989 [pid=271144 tid=271144] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:07:02:990 [pid=271144 tid=271144] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:07:02:990 [pid=271144 tid=271144] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:07:02:990 [pid=271144 tid=271144] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:07:06:886 [pid=271313 tid=271313] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:07:06:886 [pid=271313 tid=271313] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:07:06:886 [pid=271313 tid=271313] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:07:06:886 [pid=271313 tid=271313] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:17:28:459 [pid=276426 tid=276426] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:17:28:459 [pid=276426 tid=276426] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:17:28:459 [pid=276426 tid=276426] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:17:28:459 [pid=276426 tid=276426] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:17:32:433 [pid=276602 tid=276602] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:17:32:433 [pid=276602 tid=276602] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:17:32:433 [pid=276602 tid=276602] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:17:32:433 [pid=276602 tid=276602] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:17:36:459 [pid=276764 tid=276764] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:17:36:459 [pid=276764 tid=276764] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:17:36:459 [pid=276764 tid=276764] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:17:36:459 [pid=276764 tid=276764] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:20:15:381 [pid=278137 tid=278137] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:20:15:381 [pid=278137 tid=278137] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:20:15:381 [pid=278137 tid=278137] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:20:15:381 [pid=278137 tid=278137] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:20:19:660 [pid=278329 tid=278329] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:20:19:660 [pid=278329 tid=278329] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:20:19:660 [pid=278329 tid=278329] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:20:19:660 [pid=278329 tid=278329] NOTICE  cufio-drv:727 running in compatible mode
+ 10-01-2026 15:20:23:529 [pid=278515 tid=278515] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 10-01-2026 15:20:23:529 [pid=278515 tid=278515] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 10-01-2026 15:20:23:529 [pid=278515 tid=278515] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 10-01-2026 15:20:23:529 [pid=278515 tid=278515] NOTICE  cufio-drv:727 running in compatible mode
+ 13-01-2026 14:57:55:356 [pid=1199996 tid=1199996] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 14:57:55:356 [pid=1199996 tid=1199996] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 14:57:55:588 [pid=1199996 tid=1199996] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 14:57:55:588 [pid=1199996 tid=1199996] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 14:57:57:199 [pid=1199996 tid=1199996] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 14:58:41:271 [pid=1200371 tid=1200371] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 14:58:41:271 [pid=1200371 tid=1200371] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 14:58:41:503 [pid=1200371 tid=1200371] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 14:58:41:503 [pid=1200371 tid=1200371] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 14:58:43:31 [pid=1200371 tid=1200371] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 14:59:19:930 [pid=1200713 tid=1200713] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 14:59:19:930 [pid=1200713 tid=1200713] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 14:59:20:157 [pid=1200713 tid=1200713] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 14:59:20:157 [pid=1200713 tid=1200713] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 14:59:21:651 [pid=1200713 tid=1200713] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:06:37:874 [pid=1202173 tid=1202173] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:06:37:874 [pid=1202173 tid=1202173] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:06:38:101 [pid=1202173 tid=1202173] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:06:38:102 [pid=1202173 tid=1202173] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:06:39:638 [pid=1202173 tid=1202173] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:07:21:416 [pid=1202524 tid=1202524] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:07:21:416 [pid=1202524 tid=1202524] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:07:21:642 [pid=1202524 tid=1202524] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:07:21:642 [pid=1202524 tid=1202524] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:07:23:145 [pid=1202524 tid=1202524] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:08:00:663 [pid=1202864 tid=1202864] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:08:00:663 [pid=1202864 tid=1202864] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:08:00:889 [pid=1202864 tid=1202864] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:08:00:889 [pid=1202864 tid=1202864] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:08:02:373 [pid=1202864 tid=1202864] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:37:07:511 [pid=1206136 tid=1206136] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:37:07:511 [pid=1206136 tid=1206136] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:37:07:738 [pid=1206136 tid=1206136] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:37:07:738 [pid=1206136 tid=1206136] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:37:09:268 [pid=1206136 tid=1206136] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:38:51:529 [pid=1208761 tid=1208761] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:38:51:529 [pid=1208761 tid=1208761] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:38:51:755 [pid=1208761 tid=1208761] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:38:51:755 [pid=1208761 tid=1208761] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:38:53:275 [pid=1208761 tid=1208761] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:39:41:471 [pid=1209847 tid=1209847] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:39:41:471 [pid=1209847 tid=1209847] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:39:41:699 [pid=1209847 tid=1209847] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:39:41:699 [pid=1209847 tid=1209847] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:39:43:244 [pid=1209847 tid=1209847] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 13-01-2026 15:50:27:806 [pid=1216848 tid=1216848] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 13-01-2026 15:50:27:806 [pid=1216848 tid=1216848] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 13-01-2026 15:50:28:31 [pid=1216848 tid=1216848] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 13-01-2026 15:50:28:31 [pid=1216848 tid=1216848] NOTICE  cufio-drv:1063 running in compatible mode
+ 13-01-2026 15:50:30:175 [pid=1216848 tid=1216848] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 18-01-2026 17:17:25:752 [pid=3908467 tid=3908467] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 18-01-2026 17:17:25:752 [pid=3908467 tid=3908467] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 18-01-2026 17:17:26:32 [pid=3908467 tid=3908467] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 18-01-2026 17:17:26:32 [pid=3908467 tid=3908467] NOTICE  cufio-drv:1063 running in compatible mode
+ 18-01-2026 17:17:27:931 [pid=3908467 tid=3908467] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 18-01-2026 17:17:28:166 [pid=3908467 tid=3909147] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f1fd3200000 curesult =  0
+ 18-01-2026 17:17:28:166 [pid=3908467 tid=3909146] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f1fd3200000 curesult =  0
+ 21-01-2026 15:43:01:163 [pid=743909 tid=743909] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 21-01-2026 15:43:01:163 [pid=743909 tid=743909] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 21-01-2026 15:43:01:414 [pid=743909 tid=743909] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 21-01-2026 15:43:01:414 [pid=743909 tid=743909] NOTICE  cufio-drv:1063 running in compatible mode
+ 21-01-2026 15:43:03:222 [pid=743909 tid=743909] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 21-01-2026 15:43:03:331 [pid=743909 tid=744437] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fdd29200000 curesult =  0
+ 21-01-2026 15:43:03:331 [pid=743909 tid=744435] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fdd29200000 curesult =  0
+ 21-01-2026 15:46:07:688 [pid=748152 tid=748152] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 21-01-2026 15:46:07:688 [pid=748152 tid=748152] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 21-01-2026 15:46:07:947 [pid=748152 tid=748152] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 21-01-2026 15:46:07:947 [pid=748152 tid=748152] NOTICE  cufio-drv:1063 running in compatible mode
+ 21-01-2026 15:46:09:656 [pid=748152 tid=748152] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 21-01-2026 15:46:09:699 [pid=748152 tid=748299] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fb5cd000600 curesult =  0
+ 21-01-2026 15:47:58:477 [pid=750311 tid=750311] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 21-01-2026 15:47:58:477 [pid=750311 tid=750311] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 21-01-2026 15:47:58:711 [pid=750311 tid=750311] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 21-01-2026 15:47:58:711 [pid=750311 tid=750311] NOTICE  cufio-drv:1063 running in compatible mode
+ 21-01-2026 15:48:00:426 [pid=750311 tid=750311] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 21-01-2026 15:48:00:490 [pid=750311 tid=750475] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fdddf000600 curesult =  0
+ 22-01-2026 17:31:53:737 [pid=1211156 tid=1211156] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 22-01-2026 17:31:53:737 [pid=1211156 tid=1211156] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 22-01-2026 17:31:54:11 [pid=1211156 tid=1211156] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 22-01-2026 17:31:54:11 [pid=1211156 tid=1211156] NOTICE  cufio-drv:1063 running in compatible mode
+ 22-01-2026 17:31:55:854 [pid=1211156 tid=1211156] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 22-01-2026 17:31:55:900 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:900 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:900 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:900 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:916 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:918 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:919 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:920 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:928 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:932 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:936 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:939 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:940 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:944 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:950 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:955 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:970 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:970 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:970 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:970 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:983 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:984 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:985 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:986 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:995 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:998 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:55:999 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:3 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:9 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:12 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:13 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:15 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:30 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:30 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:30 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:30 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:44 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:45 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:46 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:47 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:58 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:61 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:62 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:63 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:74 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:76 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:77 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:78 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:93 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:93 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:93 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:93 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:107 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:107 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:108 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:109 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:117 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:118 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:122 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:124 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:135 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:135 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:137 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:137 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:155 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:155 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:155 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:155 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:167 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:168 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:169 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:170 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:182 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:183 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:183 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:187 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:189 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:198 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:202 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:203 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:215 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:215 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:215 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:215 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:228 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:229 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:230 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:231 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:242 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:244 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:245 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:248 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:254 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:258 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:259 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:263 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:277 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:277 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:277 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:277 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:288 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:290 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:292 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:295 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:299 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:305 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:306 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:309 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:315 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:319 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:320 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:323 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:336 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:336 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:336 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:337 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:351 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:353 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:354 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:355 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:362 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:368 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:369 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:372 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:376 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:383 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:386 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:387 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:401 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:401 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:401 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:401 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:413 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:414 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:415 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:416 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:425 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:428 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:433 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:437 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:437 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:441 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:448 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:451 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:464 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:464 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:464 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:464 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:472 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:478 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:479 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:480 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:483 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:492 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:497 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:501 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:502 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:506 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:510 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:516 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:527 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:527 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:527 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:527 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:543 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:545 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:546 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:547 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:558 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:559 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:560 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:563 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:573 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:575 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:576 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:577 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:593 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:593 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:593 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:593 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:606 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:608 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:609 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:611 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:617 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:621 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:626 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:629 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:631 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:633 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:639 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:641 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:657 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:657 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:657 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:657 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:666 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:671 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:671 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:672 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:681 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:684 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:685 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:686 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:694 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:696 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:699 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:705 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:717 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:718 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:718 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:718 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:731 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:731 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:732 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:733 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:741 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:744 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:746 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:748 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:756 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:758 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:760 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:764 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:777 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:778 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:778 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:778 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:791 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:791 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:792 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:793 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:800 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:807 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:808 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:811 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:814 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:820 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:823 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:825 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:838 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:838 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:838 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:838 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:851 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:852 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:853 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:857 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:863 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:867 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:867 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:871 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:877 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:881 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:882 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:885 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:899 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:899 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:899 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:900 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:912 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:913 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:914 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:915 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:924 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:926 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:928 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:929 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:940 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:941 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:942 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:943 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:959 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:959 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:959 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:959 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:972 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:973 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:974 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:975 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:987 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:987 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:988 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:56:989 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:1 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:2 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:3 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:3 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:20 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:20 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:20 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:20 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:33 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:34 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:36 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:37 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:46 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:50 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:51 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:54 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:62 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:64 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:65 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:66 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:82 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:82 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:83 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:83 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:94 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:101 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:102 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:104 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:110 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:115 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:117 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:118 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:126 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:130 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:131 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:134 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:148 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:148 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:148 [pid=1211156 tid=1236132] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:148 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:159 [pid=1211156 tid=1236131] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:162 [pid=1211156 tid=1236130] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 22-01-2026 17:31:57:163 [pid=1211156 tid=1236129] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7fca1e000000 curesult =  0
+ 23-01-2026 15:57:38:695 [pid=1955302 tid=1955302] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 23-01-2026 15:57:38:696 [pid=1955302 tid=1955302] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 23-01-2026 15:57:38:982 [pid=1955302 tid=1955302] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 23-01-2026 15:57:38:982 [pid=1955302 tid=1955302] NOTICE  cufio-drv:1063 running in compatible mode
+ 23-01-2026 15:57:40:930 [pid=1955302 tid=1955302] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 23-01-2026 15:57:41:53 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:53 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:53 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:53 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:64 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:64 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:68 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:74 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:78 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:79 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:82 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:86 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:93 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:93 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:96 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:104 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:177 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:177 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:177 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:177 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:190 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:190 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:191 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:192 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:204 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:205 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:206 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:206 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:216 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:219 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:220 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:221 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:236 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:236 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:236 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:236 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:247 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:250 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:251 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:255 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:261 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:265 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:266 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:269 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:277 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:279 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:281 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:282 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:298 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:298 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:298 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:298 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:311 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:312 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:312 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:313 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:325 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:326 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:327 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:328 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:339 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:340 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:341 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:342 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:358 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:358 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:358 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:358 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:371 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:372 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:373 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:373 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:383 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:386 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:387 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:389 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:398 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:401 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:402 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:403 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:419 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:419 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:419 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:419 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:432 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:433 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:434 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:435 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:447 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:448 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:448 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:449 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:461 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:462 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:463 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:464 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:480 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:480 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:480 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:480 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:492 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:493 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:494 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:495 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:501 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:505 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:511 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:512 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:516 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:519 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:527 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:529 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:540 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:540 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:540 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:540 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:553 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:554 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:555 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:556 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:567 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:568 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:569 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:570 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:582 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:583 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:584 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:585 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:601 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:601 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:601 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:601 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:614 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:615 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:615 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:616 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:625 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:628 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:630 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:633 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:641 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:643 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:644 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:649 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:661 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:661 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:661 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:661 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:670 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:672 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:675 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:681 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:685 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:687 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:688 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:694 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:700 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:703 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:704 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:707 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:721 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:721 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:721 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:721 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:731 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:734 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:735 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:740 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:745 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:747 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:751 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:755 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:758 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:762 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:767 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:768 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:781 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:781 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:781 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:781 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:790 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:794 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:798 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:798 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:801 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:807 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:809 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:814 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:819 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:820 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:823 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:831 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:840 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:840 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:840 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:840 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:851 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:854 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:855 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:856 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:866 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:868 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:869 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:873 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:881 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:884 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:885 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:889 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:904 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:904 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:904 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:904 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:917 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:918 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:919 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:920 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:932 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:934 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:935 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:935 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:947 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:948 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:949 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:950 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:974 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:974 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:974 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:974 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:984 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:988 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:990 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:993 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:41:996 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:2 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:4 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:7 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:11 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:17 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:21 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:22 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:35 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:35 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:35 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:35 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:47 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:48 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:49 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:50 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:62 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:63 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:63 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:64 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:76 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:77 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:78 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:78 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:96 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:96 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:96 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:96 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:108 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:110 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:111 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:112 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:121 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:124 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:126 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:130 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:137 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:139 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:141 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:142 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:160 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:160 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:160 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:160 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:171 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:174 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:175 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:175 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:185 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:188 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:189 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:193 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:197 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:201 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:203 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:214 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:223 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:223 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:223 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:223 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:233 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:237 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:238 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:240 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:250 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:251 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:252 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:253 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:265 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:266 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:267 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:268 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:285 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:285 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:285 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:285 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:298 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:299 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:300 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:300 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:309 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:313 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:314 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:318 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:320 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:328 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:330 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:332 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:345 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:345 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:345 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:345 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:358 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:359 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:360 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:361 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:372 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:374 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:375 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:376 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:385 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:388 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:389 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:393 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:406 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:406 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:406 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:406 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:418 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:419 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:420 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:424 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:430 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:434 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:435 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:438 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:445 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:448 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:449 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:450 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:470 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:470 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:470 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:470 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:483 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:484 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:485 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:486 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:498 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:499 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:500 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:501 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:509 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:514 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:514 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:515 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:532 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:532 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:532 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:532 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:545 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:546 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:546 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:547 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:557 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:561 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:562 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:566 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:575 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:578 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:579 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:580 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:599 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:599 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:599 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:599 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:612 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:614 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:615 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:616 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:627 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:629 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:629 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:630 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:642 [pid=1955302 tid=1956055] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:643 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:644 [pid=1955302 tid=1956056] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:644 [pid=1955302 tid=1956058] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:42:662 [pid=1955302 tid=1956057] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7f61c2000000 curesult =  0
+ 23-01-2026 15:57:49:576 [pid=1956212 tid=1956212] WARN   0:140 unable to load,  liburcu-bp.so.6 
+
+ 23-01-2026 15:57:49:576 [pid=1956212 tid=1956212] WARN   0:140 unable to load,  liburcu-bp.so.1 
+
+ 23-01-2026 15:57:49:814 [pid=1956212 tid=1956212] WARN   0:184 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 23-01-2026 15:57:49:814 [pid=1956212 tid=1956212] NOTICE  cufio-drv:1063 running in compatible mode
+ 23-01-2026 15:57:51:679 [pid=1956212 tid=1956212] NOTICE  cufio:289 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 23-01-2026 15:57:51:724 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:724 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:724 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:724 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:737 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:739 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:740 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:743 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:751 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:754 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:755 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:758 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:765 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:769 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:770 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:774 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:788 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:788 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:788 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:788 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:798 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:801 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:802 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:803 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:815 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:816 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:817 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:818 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:828 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:830 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:831 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:832 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:848 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:848 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:848 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:848 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:862 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:863 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:864 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:864 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:877 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:878 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:878 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:879 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:889 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:892 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:893 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:896 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:909 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:909 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:909 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:909 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:922 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:923 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:924 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:925 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:935 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:937 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:938 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:939 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:946 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:952 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:955 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:956 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:969 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:969 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:969 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:969 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:982 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:983 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:984 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:987 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:993 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:997 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:51:998 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:1 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:7 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:9 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:12 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:16 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:28 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:28 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:28 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:28 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:41 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:42 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:43 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:44 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:57 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:58 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:59 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:60 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:71 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:72 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:73 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:74 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:90 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:90 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:90 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:90 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:101 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:103 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:104 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:108 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:115 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:118 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:119 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:120 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:130 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:133 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:134 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:135 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:151 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:151 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:151 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:151 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:164 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:165 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:166 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:167 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:178 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:179 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:180 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:181 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:193 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:194 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:195 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:195 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:211 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:211 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:211 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:211 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:224 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:225 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:226 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:226 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:237 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:239 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:240 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:241 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:252 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:253 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:254 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:255 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:271 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:271 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:271 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:271 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:284 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:284 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:285 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:286 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:297 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:299 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:300 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:300 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:312 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:313 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:314 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:315 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:331 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:331 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:331 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:331 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:343 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:344 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:345 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:346 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:358 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:359 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:359 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:360 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:370 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:372 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:374 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:377 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:405 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:405 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:405 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:406 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:416 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:419 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:420 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:424 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:431 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:432 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:434 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:441 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:444 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:445 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:449 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:455 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:466 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:466 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:466 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:466 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:478 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:479 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:480 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:481 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:491 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:493 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:494 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:497 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:507 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:508 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:508 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:509 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:525 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:525 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:525 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:525 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:537 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:539 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:540 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:541 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:553 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:553 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:554 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:555 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:562 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:564 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:571 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:575 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:585 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:585 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:585 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:585 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:598 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:599 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:600 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:601 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:611 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:614 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:615 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:615 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:627 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:628 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:629 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:630 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:646 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:646 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:646 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:646 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:659 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:660 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:661 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:662 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:674 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:674 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:675 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:676 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:688 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:689 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:689 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:690 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:707 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:707 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:707 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:707 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:720 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:721 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:722 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:723 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:734 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:735 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:736 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:737 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:749 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:749 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:750 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:751 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:768 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:768 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:768 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:768 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:779 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:783 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:784 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:788 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:794 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:797 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:798 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:802 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:810 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:812 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:813 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:814 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:830 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:830 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:830 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:830 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:841 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:844 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:845 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:846 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:857 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:859 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:859 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:860 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:872 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:873 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:874 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:875 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:891 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:891 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:891 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:891 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:902 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:903 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:905 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:906 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:917 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:919 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:920 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:921 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:930 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:933 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:934 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:938 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:951 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:951 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:951 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:951 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:964 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:965 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:966 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:967 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:979 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:980 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:981 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:982 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:989 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:992 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:52:998 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:1 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:13 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:13 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:13 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:13 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:25 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:26 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:27 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:28 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:40 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:41 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:42 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:43 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:55 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:56 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:57 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:58 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:74 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:74 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:74 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:74 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:87 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:88 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:89 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:90 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:100 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:102 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:103 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:107 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:113 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:117 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:118 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:121 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:135 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:135 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:135 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:135 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:144 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:149 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:150 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:153 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:161 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:162 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:165 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:171 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:173 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:176 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:176 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:189 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:197 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:197 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:197 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:197 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:210 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:211 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:211 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:213 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:222 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:225 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:226 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:227 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:237 [pid=1956212 tid=1956376] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:239 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:240 [pid=1956212 tid=1956377] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:242 [pid=1956212 tid=1956378] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
+ 23-01-2026 15:57:53:259 [pid=1956212 tid=1956379] WARN   cufio_core:1856 checkIfHostMem returning false for devPtr: 0x7ff626000000 curesult =  0
